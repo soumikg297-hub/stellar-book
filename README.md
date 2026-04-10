@@ -60,11 +60,8 @@ All voting logic is enforced by the smart contract, removing the need for a trus
 
 ## 🔗 Deployed Smart Contract Link
 
-**XXX**
+CBAKUHQFXPPKLOTSBYNYMH43HZSMPFRVQHCJH422VFGV57JU5RMTVKOO
 
-(Replace with your deployed contract ID after deployment)
-
----
 
 ## 🧪 Example Usage
 
